@@ -1,0 +1,7 @@
+'Coffee it Forward' is an app for Ryerson's MDM students to recognize each other for doing good deeds or helping each other out on assignments or school related projects.
+
+Students can tweet at eachother to offer them a 'gift,' which can range from a high-five to a coffee or drink. 
+
+Each student will have a profile that displays their photo, how they take their coffee and a 'wishlist' of their preferred gifts to recieve. 
+
+The website will be restricted to students who are in the MDM program, with the possibility of it being extended to other members of the DMZ if it is successful by the end of the semester. 
