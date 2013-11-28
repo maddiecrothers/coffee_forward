@@ -32,7 +32,7 @@
 			give a coffee to maddie: 
 		</h4>
 		<%= form_for Gift.new, :html => { :class => "form-inline"} do |f|%> 
-		<%= f.text_field :from, :class =>"input-small", :placeholder =>"love" %> 
+		<%= f.text_field :from, :class =>"input-small", :placeholder =>"love/from" %> 
 		<%= f.text_field :message, :class =>"input-small", :placeholder => "message" %>
 		<%= f.submit "Give Coffee", :class => "btn-inverse btn" %> 
 		<% end %> 
