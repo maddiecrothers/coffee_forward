@@ -25,7 +25,7 @@ def create
 
   #     client.update("@mjrcrothers gets a latte on me! #mdm #{gift.from}")
 
-		client.update(@mjrcrothers have a latte on me! #{@gift.from} from: #{@gift.from})
+		#client.update(@mjrcrothers have a latte on me! #{@gift.from} from: #{@gift.from})
     flash[:info] = "thanks a-latte!"
 		redirect_to :back
 	end
